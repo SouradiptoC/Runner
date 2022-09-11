@@ -9,3 +9,6 @@ The game is implemented in python using pygame. It is both implemented in functi
 Default screen <br>
 <!-- ![Opening-Screen](https://github.com/SouradiptoC/Runner/blob/main/image/default_screen.png) -->
 ![Opening Screen](image/default_screen.png)
+
+Screen during game <br>
+![Screen during Game](image/screen_during_game.png)
