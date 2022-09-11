@@ -6,5 +6,6 @@ Runner is a game where the player has to jump or not for avoiding the approachin
 The game is implemented in python using pygame. It is both implemented in functional programming and object-oriented programming.
 
 ## Images
-Default screen
-![Opening-Screen](https://github.com/SouradiptoC/Runner/blob/main/image/default_screen.png)
+Default screen <br>
+<!-- ![Opening-Screen](https://github.com/SouradiptoC/Runner/blob/main/image/default_screen.png) -->
+![Opening Screen](image/default_screen.png)
