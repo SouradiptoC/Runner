@@ -7,4 +7,4 @@ The game is implemented in python using pygame. It is both implemented in functi
 
 ## Images
 Default screen
-![Opening-Screen][image/default_screen.png]
+![Opening-Screen][/image/default_screen.png]
